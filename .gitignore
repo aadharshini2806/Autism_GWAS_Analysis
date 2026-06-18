@@ -1,0 +1,5 @@
+.Rhistory
+.RData
+.RDataTmp
+*.RData
+data_raw/
